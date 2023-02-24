@@ -2,7 +2,7 @@ import { Component } from 'react';
 import { GlobalStyle } from '../../constants/GlobalStyle';
 import { Statistics } from 'components/Statistics';
 import { FeedbackOptions } from 'components/FeedbackOptions';
-import { Section } from './Section/Section';
+import { Section } from 'components/Section';
 import { Notification } from 'components/Notification';
 
 export class App extends Component {
